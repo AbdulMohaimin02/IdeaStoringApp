@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Idea Spark</string>
+    <string name="home_title">Home (いえ)</string>
+    <string name="favourite">Favourites (すきな)</string>
+    <string name="all_ideas">All Ideas (すべてのアイデア)</string>
+</resources>
