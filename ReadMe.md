@@ -3,13 +3,32 @@
 
 ## Description 
 
-This app is designed around the concept of quickly storing your ideas. I got the idea for this app when I realised that all my ideas for different projects and activities were scattered across half a dozen note taking apps and note books. I realised that having a dedicated place to store all your ideas would be extreamly convinent, therefor I made Idea Spark.
+This app is designed around the concept of quickly storing your ideas. This allows the user to have one convinient place to store all their ideas.
 
-My aim for this app was to provide a really nice UI experieance for the user and make the process of storing and viewing your ideas very simple. I also added a section on the home screen to store your favourite ideas. That way you can have your best ideas front and center.
+My aim for this app was to provide a clean and aesthetic UI and make the process of storing and viewing your ideas very simple. I also added a section on the home screen to store your favourite ideas, so the user can easily access thier best ideas.
 
 ## Technologies 
 
+- Jetpack compose for next generation of UI design
+- Other Jetpack Libraries for backend functionality such as navigation and ViewModels 
+- Room Database for all CRUD functionlaity
+- MVVM desing structure 
+- SOLID principles 
+
 ## How to use 
+
+Using this app is simple and intuative, the processes for adding, updating, viewing and deleting ideas are all shown in the gifs below.
+
+
+### Adding Ideas
+
+### View All Ideas
+
+### Updating Ideas 
+
+
+
+
 
 
 
