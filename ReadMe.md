@@ -14,6 +14,7 @@ This app is an original personal project.
 - Jetpack compose for next generation of UI design
 - Other Jetpack Libraries for backend functionality such as navigation and ViewModels 
 - Room Database for all CRUD functionality
+- Kotlin Coroutines for handling database requests on a separate thread
 - MVVM desing structure 
 - SOLID principles 
 
