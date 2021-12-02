@@ -23,13 +23,11 @@ This app is an original personal project.
 Using this app is simple and intuitive. The processes for adding, updating, viewing and deleting ideas are all shown in the gifs below.
 
 
-### Adding Ideas
+### Adding Ideas and Viewing All Ideas
 
-![](AppGifs/Creating_A_NewIdea.gif) 
+![](AppGifs/Creating_A_NewIdea.gif) |||||||||||||| ![](AppGifs/Viewing_All_Ideas.gif )
 
-### View All Ideas
 
-![](AppGifs/Viewing_All_Ideas.gif )
 
 ### Updating Ideas 
 
